@@ -7,5 +7,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshmalp/mongodbstart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keshmalp/mongodbstart/issues"
+  },
+  "homepage": "https://github.com/keshmalp/mongodbstart#readme",
   "description": ""
 }
